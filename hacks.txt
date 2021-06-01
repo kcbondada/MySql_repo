@@ -1,0 +1,26 @@
+
+Database: 
+		A database is a logically modeled cluster of information [data] that is typically stored on a computer or other type of hardware that is easily accessible in various ways.
+
+Database Management Systems:
+		A database management system is a computer program or other piece of software that allows one to access, interact with, and manipulate a database.
+
+
+SQL : 
+	SQL is a query language.
+You can use SQL to access, update, and manipulate the data stored in a database.
+
+MySQL:
+	 MySQL is a relational database that uses SQL to query a database
+
+
+CREATE DATABASE <database name>;
+
+show DATABASES;--shows the databases list
+
+DROP DATABASE <database name>;
+
+
+USE <database name>;
+
+SELECT database(); --to find the recently used database
